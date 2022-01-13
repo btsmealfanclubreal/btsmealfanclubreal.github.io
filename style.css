@@ -2,9 +2,13 @@
     font-family: 'Comic Neue', cursive;
 }
 
+h1 {
+    color: #505050;
+}
+
 button {
     font-family: 'Comic Neue', cursive;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(100, 100, 100);
     border: none;
     color: #505050;
     padding: 8px 20px;
