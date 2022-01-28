@@ -1,3 +1,4 @@
+//TypeWriter Effect
 new TypeIt("#simpleUsage", {
   speed: 100,
   startDelay: 500,
