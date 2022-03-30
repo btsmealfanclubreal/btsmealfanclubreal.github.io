@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(245, 210, 220);
+  color: white;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+hr {
+  border: none;
+  background-color: #fff;
+  color: #fff;
+  height: 1px;
+}
+
+.name {
+  font-size: 20px;
+  height: 0px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.sideimgright {
+  float: right;
+  margin: 5px;
+  width: 40px;
+  padding-top: 5px;
+}
+
+.sideimgleft {
+  float: left;
+  margin: 5px;
+  width: 40px;
+  padding-top: 5px;
+}
+
+.title {
+  text-align: center;
+  height: 4px;
+}
+
+.centerme {
+  text-align: center;
+  height: 15px;
+}
+
+.bigleftcat {
+  float: left;
+  height: 135px;
+}
+
+.bigrightcat {
+  float: right;
+  height: 130px;
+}
+
+.bigrightcat, .bigleftcat {
+  margin: 15px;
+  width: 110px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 25px white;
+  border-style:double;
+  border-color: pink;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+
+.page {
+  width: 415px;
+  margin:auto;
+}
